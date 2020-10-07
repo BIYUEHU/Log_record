@@ -72,4 +72,5 @@ C:\Users\账号\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\Loca
 
 ## 关于
 作者：碧月狐dada
-在**@Bilibili**关注[我*]()
+在 **@Bilibili** 关注[我*](https://space.bilibili.com/293767574)
+博客：[biyuehu.github.io](https://biyuehu.github.io)
