@@ -1,0 +1,132 @@
+{
+    "format_version": 1.00,
+    "config": {
+        "event": {
+            "minecraft:block_interacted_with": true,
+            "minecraft:block_destruction_started": true,
+            "minecraft:block_destruction_stopped": true,
+            "minecraft:player_placed_block": true,
+            "minecraft:player_destroyed_block": true,
+            "minecraft:piston_moved_block": true,
+            "minecraft:entity_carried_item_changed": true,
+            "minecraft:entity_dropped_item": true,
+            "minecraft:entity_acquired_item": true,
+            "minecraft:entity_equipped_armor": true,
+            "minecraft:entity_use_item": true,
+            "minecraft:entity_death": true,
+            "minecraft:entity_start_riding": true,
+            // "minecraft:entity_start_riding": true,
+            "minecraft:block_exploded": true,
+            "minecraft:entity_sneak": true,
+            "minecraft:entity_attack": true,
+            "minecraft:projectile_hit": true,
+            "minecraft:entity_hurt": true,
+            "minecraft:weather_changed": true,
+            "minecraft:entity_definition_event": true,
+            "minecraft:play_sound": true,
+            "byh:jinrushijie": null
+        },
+        "log_&_chat": {
+            "minecraft:block_interacted_with": [
+                "log",
+                "chat"
+            ],
+            "minecraft:block_destruction_started": [
+                "log",
+                "chat"
+            ],
+            "minecraft:block_destruction_stopped": [
+                "log",
+                "chat"
+            ],
+            "minecraft:player_placed_block": [
+                "log",
+                "chat"
+            ],
+            "minecraft:player_destroyed_block": [
+                "log",
+                "chat"
+            ],
+            "minecraft:piston_moved_block":  [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_carried_item_changed": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_dropped_item": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_acquired_item": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_equipped_armor": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_use_item": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_death": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_start_riding": [
+                "log",
+                "chat"
+            ],
+            // "minecraft:entity_start_riding": ["log", "chat" ],
+            "minecraft:block_exploded": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_sneak": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_attack": [
+                "log",
+                "chat"
+            ],
+            "minecraft:projectile_hit": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_hurt": [
+                "log",
+                "chat"
+            ],
+            "minecraft:weather_changed": [
+                "log",
+                "chat"
+            ],
+            "minecraft:entity_definition_event": [
+                "log",
+                "chat"
+            ],
+            "minecraft:play_sound": [
+                "log",
+                "chat"
+            ],
+            "byh:jinrushijie": null,
+            "server_logstart": [
+                "log",
+                "chat"
+            ],
+            "client_logstart": [
+                "log",
+                "chat"
+            ],
+            "server_logstop": [
+                "log"
+            ],
+            "client_logstop": [
+                "log"
+            ]
+        }
+    }
+}
